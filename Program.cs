@@ -33,8 +33,6 @@ namespace ws_mid2
                 x += dx;
                 y += dy;
             }
-
-
         }
     }
 }
